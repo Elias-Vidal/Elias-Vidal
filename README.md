@@ -2,4 +2,4 @@
 
 ![Elias GitHub stats](https://github-readme-stats.vercel.app/api?username=Elias-Vidal&theme=blue-green)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elias-Vidal&layout=compact)
